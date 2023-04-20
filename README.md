@@ -1,6 +1,10 @@
 # NVIDIA-CUDA-NOTES
 NVIDIA CUDA NOTES.
 
+### CUDA NOTES SERIES 
+- CUDA Hello World 
+- CUDA Add Two Numbers 
+
 
 ### About Me 
 - Computer Science, Master, Shenzhen University
