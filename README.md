@@ -3,8 +3,9 @@
 NVIDIA CUDA NOTES. <br>
 Run Cuda programs with CUDA Toolkit on windows command line. 
 
-Compile .cu programs by  
-- nvcc xxx.cu -o xxx 
+Compile .cu programs by   
+```nvcc xxx.cu -o xxx 
+```
 
 
 ### CUDA NOTES SERIES 
