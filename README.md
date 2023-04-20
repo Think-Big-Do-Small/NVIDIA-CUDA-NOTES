@@ -1,9 +1,14 @@
 # NVIDIA-CUDA-NOTES
-NVIDIA CUDA NOTES.
+NVIDIA CUDA NOTES. 
+Run Cuda programs with CUDA Toolkit on windows command line. 
+
+Compile .cu programs by  
+- nvcc xxx.cu -o xxx 
+
 
 ### CUDA NOTES SERIES 
-- CUDA Hello World 
-- CUDA Add Two Numbers 
+- CUDA - Hello World 
+- CUDA - Add Two Numbers 
 
 
 ### About Me 
