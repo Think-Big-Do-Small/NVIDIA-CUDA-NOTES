@@ -1,5 +1,5 @@
 # NVIDIA-CUDA-NOTES
-NVIDIA CUDA NOTES. 
+NVIDIA CUDA NOTES. <br>
 Run Cuda programs with CUDA Toolkit on windows command line. 
 
 Compile .cu programs by  
