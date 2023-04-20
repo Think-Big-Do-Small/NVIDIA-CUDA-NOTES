@@ -7,8 +7,8 @@ Compile .cu programs by
 
 
 ### CUDA NOTES SERIES 
-- CUDA - Hello World 
-- CUDA - Add Two Numbers 
+- CUDA - [HelloWorld](https://github.com/Think-Big-Do-Small/NVIDIA-CUDA-NOTES/blob/2ca6e51b8b4a3c1a849d915b0231e1e1ea4885e6/Cuda_Notes/HelloWorld/HelloWorldTest.cu)
+- CUDA - [Add Two Numbers ](https://github.com/Think-Big-Do-Small/NVIDIA-CUDA-NOTES/blob/2ca6e51b8b4a3c1a849d915b0231e1e1ea4885e6/Cuda_Notes/Add/AddTwoNumbersTest.cu)
 
 
 ### About Me 
